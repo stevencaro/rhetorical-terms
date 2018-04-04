@@ -1,13 +1,13 @@
 #!/usr/bin/python3
+from json import load
+from random import choice
+
 import sys
 import textwrap
 
-from json import load
-from random import choice
-#from align import *
-#from termcolor import *
-
 class Rhetoric:
+    ''' Encapsulates 'rhetoric.json' file and returns quotes from that file
+    to clients. Also contains display logic if run as a standalone application.'''
     def __init__(self):
         rf = open('rhetoric.json', 'r')
         self.rhetoric = load(rf)
@@ -32,7 +32,6 @@ class Rhetoric:
         if withex and example:
             output += '\n'
             for example in self.rhetoric[term][1:]:
-                #for line in align_paragraph(example,100):
                 for line in textwrap.wrap(example,100):
                     output += '     ' + line + '\n'
                 output += '\n'
@@ -46,9 +45,6 @@ class Rhetoric:
         else:
             print(self.format(), end = '')
 
-# erase last newline using ANSI escape sequence
-# http://www.termsys.demon.co.uk/vtansi.htm  can't find the sequence [F in any docs.
-#            sys.stdout.write("\033[F")
 
 if __name__ == "__main__":
     r = Rhetoric()
