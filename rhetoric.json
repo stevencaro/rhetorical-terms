@@ -1,0 +1,682 @@
+{
+  "acatalectic": [
+    "having complete or full number of syllables in a poetic line"
+  ],
+  "accismus": [
+    "pretending to refuse something"
+  ],
+  "adynaton": [
+    "rhetorical use of a nearly impossible situation for emphasis"
+  ],
+  "agnomination": [
+    "rhetorical use of similar-sounding words for effect"
+  ],
+  "alliteration": [
+    "repetition of the same letter at beginning of words or syllables",
+    "Viri validis cum viribus luctant. Ennius",
+    "Veni, vidi, vici. Julius Caesar",
+    "Marcus me momordit"
+  ],
+  "alogism": [
+    "illogical statement"
+  ],
+  "anacoenosis": [
+    "rhetorical questioning of hearers or opponents for opinions on a matter"
+  ],
+  "anacoluthon": [
+    "moving to new topic of discussion before finishing current one; a change in the grammatical construction within the same sentence.",
+    "'No, you unnatural hags,/ I will have such revenges on you both,/ That all the world shall — I will do such things...' (King Lear, Act 2, Scene 4).",
+    "Agreements entered into when one state of facts exists — are they to be maintained regardless of changing conditions? J. Diefenbaker"
+  ],
+  "anadiplosis": [
+    "repeating last word of clause at beginning of next clause",
+    "Men in great place are thrice servants: servants of the sovereign or state; servants of fame; and servants of business. Francis Bacon",
+    "Senatus haec intellegit, consul videt; hic tamen vivit. Vivit? Immo vero etiam in senatum venit. Cicero, In Catilinam"
+  ],
+  "analepsis": [
+    "repetition of a word or phrase for emphasis; pleonasm"
+  ],
+  "anaphora": [
+    "repetition of a word at beginning of successive phrases for emphasis",
+    "'O grim-look'd night! O night with hue so black! O night, which ever art when day is not! O night, O night, alack, alack, alack!'",
+    "Nihil agis, nihil moliris, nihil cogitas, quod non ego non modo audiam, sed etiam videam planeque sentiam. Cicero, In Catilinam",
+    "non feram, non sinam, non patiar"
+  ],
+  "anastrophe": [
+    "inversion of usual word order (such as a preposition after the word it governs). a form of hyperbaton.",
+    "The helmsman steered; the ship moved on; yet never a breeze up blew. Coleridge, The Rime of the Ancient Mariner",
+    "Isdem in oppidis, Cicero",
+    "te propter vivo (instead of the expected propter te vivo)"
+  ],
+  "antanaclasis": [
+    "repetition of key word of phrase as a play on words"
+  ],
+  "anthorism": [
+    "counter-definition; redefinition of opponent's term for rhetorical effect"
+  ],
+  "anthypophora": [
+    "refuting an objection using a contrary inference"
+  ],
+  "anticlimax": [
+    "expression whose last part is decreased in effect from the prior part"
+  ],
+  "antimetabole": [
+    "figure in which words or phrases are repeated but in inverse order"
+  ],
+  "antimetathesis": [
+    "inversion of the parts of an antithesis"
+  ],
+  "antiphrasis": [
+    "use of words in a sense opposite to literal"
+  ],
+  "antistrophe": [
+    "repetition of the same word or phrase at the end of successive clauses.",
+    "In 1931, ten years ago, Japan invaded Manchukuo — without warning. In 1935, Italy invaded Ethiopia — without warning. In 1938, Hitler occupied Austria — without warning. In 1939, Hitler invaded Czechoslovakia — without warning. Later in 1939, Hitler invaded Poland — without warning. And now Japan has attacked Malaya and Thailand — and the United States — without warning. Franklin D. Roosevelt"
+  ],
+  "antistrophon": [
+    "turning of opponent's own argument against them"
+  ],
+  "antithesis": [
+    "contrast of ideas by means of parallel arrangement of words or clauses. the balanced juxtaposition of contrasting ideas.",
+    "''Tide life, 'tide death, I come without delay.'",
+    "Extremism in defense of liberty is no vice, moderation in the pursuit of justice is no virtue. Barry Goldwater",
+    "Brutus: Not that I loved Caesar less, but that I loved Rome more. Shakespeare, Julius Caesar",
+    "The vases of the classical period are but the reflection of classical beauty; the vases of the archaic period are beauty itself.\" Sir John Beazley"
+  ],
+  "antonomasia": [
+    "use of descriptive phrase or epithet instead of proper name"
+  ],
+  "aparithmesis": [
+    "rhetorical answer to a proposition"
+  ],
+  "apo koinou": [
+    "two constructions that have a word or phrase in common; a word or phrase shared by two different constructions.",
+    "'There was a man ... dwelt by a churchyard' (The Winter's Tale, Act 2, Scene 1)."
+  ],
+  "apodosis": [
+    "main concluding clause in a conditional sentence"
+  ],
+  "apophasis": [
+    "saying something by stating that you will not mention it"
+  ],
+  "aporia": [
+    "expression of (feigned) doubt by which a speaker appears uncertain as to what he should think, say, or do.",
+    "Then the steward said within himself, 'What shall I do?' Luke 16"
+  ],
+  "aposiopesis": [
+    "coming to an abrupt halt for emphasis: seemingly overcome by passion, fear, excitement, or modesty.",
+    "quem ego . . . sed non possum pergere. (\"Whom I . . . but I cannot go on.\")"
+  ],
+  "apostrophe": [
+    "a sudden turn from the general audience to address a specific group or person or personified abstraction absent or present.",
+    "For Brutus, as you know, was Caesar's angel.\nJudge, O you gods, how dearly Caesar loved him. Shakespeare, Julius Caesar",
+    "O maiores, quid diceretis de hac re?"
+  ],
+  "archaism": [
+    "use of an older or obsolete form.",
+    "Pipit sate upright in her chair / Some distance from where I was sitting; T. S. Eliot"
+  ],
+  "assonance": [
+    "a type of alliteration in which the leading letter is a vowel.",
+    "Of princes, shall outlive this powerful rhyme / But you shall shine more bright in these contents (Sonnet 55)",
+    "Thy kingdom come, thy will be done.",
+    "O fortunatam natam me consule Romam! Cicero"
+  ],
+  "asteism": [
+    "refined irony"
+  ],
+  "asyndeton": [
+    "lack of conjunctions between coordinate phrases, clauses, or words.",
+    "'O Fates, come, come, cut thread and thrum; quail, crush, conclude, and quell!'",
+    "We shall pay any price, bear any burden, meet any hardships, support any friend, oppose any foe to assure the survival and the success of liberty. J. F. Kennedy",
+    "But, in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground. Lincoln, Gettysburg Address",
+    "videt, sentit, scit"
+  ],
+  "atticism": [
+    "expression characterized by conciseness and elegance"
+  ],
+  "auxesis": [
+    "increase in size; hyperbole or augmentation of meaning"
+  ],
+  "bathos": [
+    "appearance of the commonplace in elevated matter for rhetorical effect"
+  ],
+  "brachylogy": [
+    "abbreviated or condensed expression (like asyndeton or zeugma or ellipse). The missing words can be inferred from the context.",
+    "Aeolus haec contra. Vergil, Aeneid",
+    "Non Cinnae, non Sullae longa dominatio. Tacitus, Annales I.1"
+  ],
+  "cacophony": [
+    "harsh joining of sounds.",
+    "We want no parlay with you and your grisly gang who work your wicked will. W. Churchill",
+    "O Tite tute Tati tibi tanta tyranne tulisti! Ennius"
+  ],
+  "captatio benevolentiae": [
+    "speech designed to render the audience kindly disposed towards the speaker.",
+    "imperfect example: 'If we offend, it is with our good will. That you should think, we come not to offend. But with good will.'"
+  ],
+  "catachresis": [
+    "a harsh metaphor involving the use of a word beyond its strict sphere.",
+    "I listen vainly, but with thirsty ear. MacArthur, Farewell Address",
+    "Cynthia prima suis miserum me cepit ocellis. Propertius I.1.1"
+  ],
+  "catastasis": [
+    "introductory part of speech where narrator introduces subject"
+  ],
+  "chiasmus": [
+    "two corresponding pairs arranged not in parallels (a-b-a-b) but in inverted order (a-b-b-a)",
+    "'Sweet Moon, I thank thee ..., I thank thee, Moon ...'",
+    "Those gallant men will remain often in my thoughts and in my prayers always. MacArthur",
+    "Renown'd for conquest, and in council skill'd. Addison",
+    "et pacis ornamenta et subsidia belli. Cicero, Pro lege Manilia",
+    "magnas urbes oppida parva (adjective, noun, noun, adjective)"
+  ],
+  "climax": [
+    "a series or sequence that gradually increases in import or force.",
+    "'Tongue, lose thy light;/ Moon take thy flight: Now die, die, die, die, die'",
+    "One equal temper of heroic hearts,\nMade weak by time and fate, but strong in will\nTo strive, to seek, to find, and not to yield. Tennyson, Ulysses",
+    "Nonne hunc in vincula duci, non ad mortem rapi, non summo supplicio mactari imperabis? Cicero, In Catilinam",
+    "Facinus est vincere civem Romanum; scelus verberare; prope parricidium necare: quid dicam in crucem tollere? verbo satis digno tam nefaria res appellari nullo modo potest. Cicero, In Verrem"
+  ],
+  "consecution": [
+    "logical sequence or progression of an argument"
+  ],
+  "diacope": [
+    "rhetorical separation of a compound word by a third word; tmesis"
+  ],
+  "diallage": [
+    "device in which many arguments brought upon one point"
+  ],
+  "diallelus": [
+    "circular argument"
+  ],
+  "dialogism": [
+    "rhetorical discussion in form of an imaginary dialogue"
+  ],
+  "diaporesis": [
+    "rhetorical expression of uncertainty of which of two options to adopt"
+  ],
+  "diasyrm": [
+    "rhetorical device of condemning through faint praise"
+  ],
+  "diatyposis": [
+    "rhetorically vivid and clear description of a subject"
+  ],
+  "dicaeology": [
+    "defending oneself in argument by claiming justification"
+  ],
+  "dilemma": [
+    "in rhetoric, forcing a choice between two equally unfavourable choices"
+  ],
+  "dilogy": [
+    "intentional ambiguousness"
+  ],
+  "dinumeration": [
+    "numbering of rhetorical points one by one"
+  ],
+  "ecbole": [
+    "digression"
+  ],
+  "echolalia": [
+    "echo-like repetition of another's words"
+  ],
+  "echopraxia": [
+    "echo-like repetition of another's actions"
+  ],
+  "ecphasis": [
+    "explicit declaration or interpretation"
+  ],
+  "ecphonesis": [
+    "rhetorical exclamation"
+  ],
+  "ecphrasis": [
+    "plain interpretation of a thing"
+  ],
+  "ekphrasis": [
+    "description of a work of art as rhetorical exercise"
+  ],
+  "ellipsis": [
+    "the omission of one or more words in a sentence necessary for a complete grammatical construction.",
+    "'I neither know it nor can learn of him' (Romeo and Juliet, Act 1, Scene 1)",
+    "Dixit me inventum. (\"He said I had been found.\" esse is missing)"
+  ],
+  "enantiosis": [
+    "ironic expression of idea by refuting its contrary"
+  ],
+  "enthymeme": [
+    "rhetorical suppression or omission of a premise"
+  ],
+  "epanadiplosis": [
+    "sentence which begins and ends with same word"
+  ],
+  "epanalepsis": [
+    "repetition"
+  ],
+  "epanaphora": [
+    "repetition of same word at beginning of multiple phrases or sentences"
+  ],
+  "epanastrophe": [
+    "device where end of one sentence is repeated as beginning of next"
+  ],
+  "epanodos": [
+    "recapitulation of chief points in a discourse after digression"
+  ],
+  "epanorthosis": [
+    "retraction of statement in order to intensify it"
+  ],
+  "epexegesis": [
+    "addition of words to make the sense more clear"
+  ],
+  "epibole": [
+    "device of beginning several clauses with same word"
+  ],
+  "epilogue": [
+    "rhetorical conclusion or summary"
+  ],
+  "epiphonema": [
+    "exclamation, finishing phrase or reflection"
+  ],
+  "epiphora": [
+    "rhetorical repetition of a word at the end of several sentences"
+  ],
+  "epiplexis": [
+    "persuasion through stylized but severe criticism of opponent"
+  ],
+  "epiploce": [
+    "use of multiple entwined points in succession in an argument"
+  ],
+  "epistrophe": [
+    "ending of successive clauses with the same word"
+  ],
+  "epitrope": [
+    "rhetorical but ironic granting of permission to an opponent to do something"
+  ],
+  "epizeuxis": [
+    "immediate repetition of a word for emphasis"
+  ],
+  "erotesis": [
+    "rhetorical questioning"
+  ],
+  "ethopoeia": [
+    "delineation of the character of someone or something"
+  ],
+  "euphemism": [
+    "rhetorical use of a pleasant or favourable form in place of a harsh, rude, or vulgar one"
+  ],
+  "exergasia": [
+    "remaining on one point of argument while gradually fleshing it out"
+  ],
+  "figura etymologica": [
+    "words of the same etymological derivation used in proximity.",
+    "'So long lives this, and this gives life to thee' (Sonnet 18)."
+  ],
+  "gemination": [
+    "doubling of a consonant sound; in rhetoric, repetition of a word or phrase"
+  ],
+  "hendiadys": [
+    "one idea expressed by two words joined by 'and', such as two nouns used in place of a noun and an adjective.",
+    "'The service and the loyalty I owe' (Macbeth, Act 1, Scene 4), for 'the loyal service'.",
+    "It sure is nice and cool today! (for \"pleasantly cool\")",
+    "I love the Lord, because he hath heard my voice and my supplications. Psalms 116",
+    "Perfecti oratoris moderatione et sapientia. Cicero, De oratore",
+    "luctus et labor (meaning \"grievous toil\")"
+  ],
+  "heterosis": [
+    "use of one form of a noun or pronoun in place of another for rhetorical effect"
+  ],
+  "homeoteleuton": [
+    "the use or occurrence of similar word endings"
+  ],
+  "homoeoptoton": [
+    "use of series of words sharing the same verb or noun inflections"
+  ],
+  "homoioteleuton": [
+    "similarity of ending in words in close proximity to one another.",
+    "'My mother weeping, my father wailing, my sister crying, our maid howling, our cat wringing her hands' (The Two Gentlemen of Verona)"
+  ],
+  "husteron proteron": [
+    "placing 'the latter first', producing chronological disorder.",
+    "'The Antoniad, the Egyptian admiral,/ With all their sixty, fly and turn the rudder' (Antony and Cleopatra)"
+  ],
+  "hypallage": [
+    "figure in which relations between words are changed",
+    "(\"exchanging\") transferred epithet; grammatical agreement of a word with another word which it does not logically qualify. More common in poetry.",
+    "Exegi monumentum aere perennius\nregalique situ pyramidum altius ~Horace"
+  ],
+  "hyperbaton": [
+    "dislocation of the customary or logical word order, with the result that items that normally go together are separated. From Greek huperbaino, 'to step (bainein) over (huper-)'. (Imagine, for instance, that if an adjective is placed apart from the noun it modifies you have to 'step over' the intervening words to get from one to the other.)",
+    "separation of words which belong together, often to emphasize the first of the separated words or to create a certain image.",
+    "'Some rise by sin, and some by virtue fall' (Measure for Measure)",
+    "Speluncam Dido dux et Troianus eandem ~Vergil"
+  ],
+  "hyperbole": [
+    "exaggeration for emphasis or for rhetorical effect.",
+    "Will all great Neptune's ocean wash this blood\nClean from my hand? No, this my hand will rather\nThe multitudinous seas incarnadine,\nMaking the green one red (Macbeth)",
+    "My vegetable love should grow\nVaster than empires, and more slow;\nAn hundred years should got to praise\nThine eyes and on thine forehead gaze;\nTwo hundred to adore each breast,\nBut thirty thousand to the rest. Andrew Marvell, \"To His Coy Mistress\"",
+    "Da mi basia mille, deinde centum,\nDein mille altera, dein secunda centum,\nDeinde usque altera mille, deinde centum. Catullus",
+    "Catilina est mons vitiorum. (\"Catiline is a mountain of vices.\")"
+  ],
+  "hypercatalectic": [
+    "having an extra syllable on the end of a line of verse"
+  ],
+  "hypobole": [
+    "anticipating and refuting objections to an argument"
+  ],
+  "hypophora": [
+    "statement of an opponent's probable but as yet unstated objection"
+  ],
+  "hypostrophe": [
+    "return to primary argument after digression"
+  ],
+  "hypotyposis": [
+    "vivid description of a scene"
+  ],
+  "hysteron proteron": [
+    "inversion of the natural sequence of events, often meant to stress the event which, though later in time, is considered the more important. placing first what the reader might expect to come last",
+    "\"I like the island Manhattan. Smoke on your pipe and put that in.\" — from the song \"America,\" West Side Story lyric by Stephen Sondheim (submitted per litteram by guest rhetorician Anthony Scelba)",
+    "Put on your shoes and socks!",
+    "Hannibal in Africam redire atque Italia decedere coactus est. Cicero, In Catilinam",
+    "mortuus est et hostem inruit (\"He died and he rushed against the enemy\")"
+  ],
+  "irony": [
+    "expression of something which is contrary to the intended meaning; the words say one thing but mean another.",
+    "Yet Brutus says he was ambitious;\nAnd Brutus is an honourable man. Shakespeare, Julius Caesar"
+  ],
+  "lemma": [
+    "preliminary proposition, theme, argument or headword"
+  ],
+  "litotes": [
+    "understatement for intensification by denying the contrary of the thing being affirmed.",
+    "'That I was not ignoble of descent' (Henry VI)",
+    "A few unannounced quizzes are not inconceivable.",
+    "War is not healthy for children and other living things.",
+    "Haud stultus erat Cicero. (\"Cicero was very intelligent\")"
+  ],
+  "macrology": [
+    "much talk with little to say; redundancy; pleonasm"
+  ],
+  "meiosis": [
+    "understatement of size or importance for rhetorical effect",
+    "One nuclear bomb can ruin your whole day."
+  ],
+  "merism": [
+    "rhetorical device of contrasting two parts of a whole"
+  ],
+  "mesozeugma": [
+    "placement of a word referring to two different clauses between them"
+  ],
+  "metabasis": [
+    "transition; transfer; in rhetoric, movement from one topic to another"
+  ],
+  "metalepsis": [
+    "metonymy of a double or indirect kind"
+  ],
+  "metaphor": [
+    "expression of meaning through an image",
+    "Life's but a walking shadow; a poor player,\nThat struts and frets his hour upon the stage. (Macbeth)",
+    "Horatius est lux litterarum Latinarum. (\"Horace is the light of Latin literature.\")"
+  ],
+  "metaphrase": [
+    "turning of prose into verse or vice versa"
+  ],
+  "metastasis": [
+    "removal from one place to another; rapid transition in argument"
+  ],
+  "metonymy": [
+    "figurative use of word to name an attribute of its subject",
+    "He is a man of the cloth.",
+    "The pen is mightier than the sword.",
+    "By the sweat of thy brow thou shalt eat thy bread.",
+    "Neptunus me terret"
+  ],
+  "mimesis": [
+    "rhetorical imitation of another's words or mannerisms"
+  ],
+  "mycterism": [
+    "sneering; rhetorical sarcasm or irony"
+  ],
+  "noema": [
+    "stating something obscurely, forcing listeners to work it out"
+  ],
+  "onomatopoeia": [
+    "use of words to imitate natural sounds; accommodation of sound to sense.",
+    "'Sea -nymphs hourly ring his knell/ Hark! now I hear them, — Ding-dong, bell' (The Tempest)",
+    "At tuba terribili sonitu taratantara dixit. Ennius",
+    "Murmurant multi"
+  ],
+  "oxymoron": [
+    "figure of speech combining contradictory terms",
+    "'A tedious brief scene of young Pyramus/ And his love Thisbe; very tragical mirth.' Merry and tragical! tedious and brief!/ That is, hot ice and wondrous strange snow./ How shall we find the concord of this discord?'",
+    "Festina lente.",
+    "I must be cruel only to be kind. Shakespeare, Hamlet",
+    "parvum monstrum"
+  ],
+  "palillogy": [
+    "repetition of a word or word or phrase"
+  ],
+  "parabola": [
+    "rhetorical use of simile or metaphor"
+  ],
+  "paradiastole": [
+    "description of an unfavourable quality through a favourable synonym"
+  ],
+  "paradigma": [
+    "rhetorical comparison by resemblance to another thing"
+  ],
+  "paradox": [
+    "an assertion seemingly opposed to common sense, but that may yet have some truth in it.",
+    "What a pity that youth must be wasted on the young. George Bernard Shaw"
+  ],
+  "paraenesis": [
+    "rhetorical expression of advice or warning"
+  ],
+  "paragram": [
+    "play on words in which letters are changed"
+  ],
+  "paralipsis": [
+    "fixing attention on subject by pretending to neglect it"
+  ],
+  "paraprosdokian": [
+    "surprise or unexpected ending of a phrase or series.",
+    "He was at his best when the going was good. Alistair Cooke on the Duke of Windsor",
+    "There but for the grace of God — goes God. Churchill",
+    "Laudandus, ornandus, tollendus. Cicero on Octavian"
+  ],
+  "parathesis": [
+    "apposition; compounding of words without change"
+  ],
+  "parecbasis": [
+    "rhetorical digression or deviation from expected topic"
+  ],
+  "paregmenon": [
+    "repetition of a word or its cognates in a series of words"
+  ],
+  "parembole": [
+    "insertion of something related to the subject into a phrase"
+  ],
+  "paremptosis": [
+    "insertion of something related to the subject into a phrase"
+  ],
+  "parison": [
+    "even balance of elements in a sentence"
+  ],
+  "paroemia": [
+    "proverb or adage used in argumentation"
+  ],
+  "paromoion": [
+    "starting statement with several words starting with the same letter"
+  ],
+  "paromologia": [
+    "partial admission of opponent's argument to strengthen one's final position"
+  ],
+  "paronomasia": [
+    "use of similar sounding words; often etymological word-play",
+    "'Our sport shall be to take what they mistake'; 'You, ladies, you, whose gentle hearts do fear/ the smallest monstrous mouse that creeps on floor...'",
+    "...culled cash, or cold cash, and then it turned into a gold cache. E.L. Doctorow, Billy Bathgate",
+    "Thou art Peter (Greek petros), and upon this rock (Greek petra) I shall build my church. Matthew 16",
+    "The dying Mercutio: Ask for me tomorrow and you shall find me a grave man. Shakespeare, Romeo and Juliet",
+    "Hic est sepulcrum haud pulchrum feminae pulchrae."
+  ],
+  "parrhesia": [
+    "asking forgiveness in advance for frank or bold speech"
+  ],
+  "pathopoeia": [
+    "excitation of passion by rhetoric or poetry"
+  ],
+  "periergia": [
+    "use of elevated style to discuss a trivial matter"
+  ],
+  "periphrasis": [
+    "circumlocution; round-about expression"
+  ],
+  "perissology": [
+    "verbiage; pleonasm"
+  ],
+  "personification": [
+    "attribution of human characteristics to something not human",
+    "England expects every man to do his duty. Lord Nelson",
+    "Nunc te patria, quae communis est parens omnium nostrum, odit ac metuit et iam diu nihil te iudicat nisi de parricidio suo cogitare. Cicero, In Catilinam",
+    "Ipsa saxa dolent."
+  ],
+  "pleonasm": [
+    "redundancy; use of more words than necessary",
+    "'the most unkindest cut of all' (Julius Caesar, Act 3, Scene 2, about Brutus' stabbing of Caesar).",
+    "No one, rich or poor, will be excepted.",
+    "Ears pierced while you wait!",
+    "I have seen no stranger sight since I was born.",
+    "Oculis me videt."
+  ],
+  "ploce": [
+    "repetition of word in more expressive sense for emphasis"
+  ],
+  "polyptoton": [
+    "repetition of word in same sentence with multiple inflectional endings",
+    "the repetition of the same word, variously inflected. From Greek poluptoton, 'many (polu) cases (from pt\u00f4sis, i.e. fall, grammatical case)'.",
+    "'Then know that I, one Snug the joiner, am/ A lion-fell, nor else no lion's dam.'"
+  ],
+  "polysyndeton": [
+    "rhetorical device of repeating conjunction for emphasis",
+    "the repetition of conjunctions in a series of coordinate words, phrases, or clauses.",
+    "'Peering in maps for ports and piers and roads' (The Merchant of Venice, Act 1, Scene 1).",
+    "omnia Mercurio similis, vocemque coloremque\net crinis flavos et membra decora iuventae Vergil, Aeneid 4.558-9",
+    "Horae quidem cedunt et dies et menses et anni, nec praeteritum tempus umquam revertitur, nec quid sequatur sciri potest. Cicero, De senectute",
+    "et videt et sentit et scit"
+  ],
+  "praeteritio": [
+    "passing over: mentioning something by not meaning to mention it. pretended omission for rhetorical effect.",
+    "'Soft you; a word or two before you go./ I have done the state some service, and they know't. / No more of that' (Othello, Act 5, Scene 2).",
+    "That part of our history detailing the military achievements which gave us our several possessions ... is a theme too familiar to my listeners for me to dilate on, and I shall therefore pass it by. Thucydides, \"Funeral Oration\"",
+    "Let us make no judgment on the events of Chappaquiddick, since the facts are not yet all in. A political opponent of Senator Edward Kennedy"
+  ],
+  "procatalepsis": [
+    "anticipating and answering an opponent's objections"
+  ],
+  "prolepsis": [
+    "the anticipation, in adjectives or nouns, of the result of the action of a verb; the positioning of a relative clause before its antecedent.",
+    "Vixi et quem dederat cursum fortuna peregi, Vergil, Aeneid 4.653",
+    "Consider the lilies of the field how they grow.",
+    "submersis obruit puppis (\"he overwhelms the sunken ships\")"
+  ],
+  "pronomination": [
+    "description of a thing by its qualities rather than its proper name"
+  ],
+  "prosopopoeia": [
+    "personification; representation of absent person as speaking"
+  ],
+  "protasis": [
+    "first clause in a conditional expression; introductory part of a play"
+  ],
+  "prothysteron": [
+    "putting last what normally comes first in an expression or argument"
+  ],
+  "protozeugma": [
+    "zeugma in which word referring to two clauses is placed before both of them"
+  ],
+  "schesis": [
+    "deriding opponent's argument by referring to his way of thought"
+  ],
+  "simile": [
+    "comparison of two things (using a word like sicut, similis, or velut)",
+    "My love is as a fever, longing still\nFor that which longer nurseth the disease, Shakespeare, Sonnet CXLVII",
+    "Reason is to faith as the eye to the telescope. D. Hume",
+    "Let us go then, you and I,\nWhile the evening is spread out against the sky,\nLike a patient etherized upon a table... ~T.S. Eliot",
+    "Volat sicut avis."
+  ],
+  "sorites": [
+    "string of statements where end of one is subject of next"
+  ],
+  "superjection": [
+    "exaggeration; hyperbole"
+  ],
+  "syllepsis": [
+    "figure where word related to two others differently",
+    "use of a word with two others, with each of which it is understood differently.",
+    "We must all hang together or assuredly we will all hang separately. ~Benjamin Franklin"
+  ],
+  "syllogism": [
+    "argument in which two premises lead to a logical conclusion"
+  ],
+  "symploce": [
+    "repetition of word at start of one and end of next clause"
+  ],
+  "synchoresis": [
+    "concession made for the sake of more effective retort"
+  ],
+  "synchysis": [
+    "confusion of meaning due to unusual arrangement",
+    "interlocked word order.",
+    "aurea purpuream subnectit fibula vestem Vergil, Aeneid 4.139"
+  ],
+  "syncrisis": [
+    "comparison of diverse or contradictory things"
+  ],
+  "syndeton": [
+    "phrase whose parts are joined by a conjunction"
+  ],
+  "synecdoche": [
+    "part used to refer to whole or vice versa",
+    "Give us this day our daily bread. Matthew 6",
+    "I should have been a pair of ragged claws\nScuttling across the floors of silent seas.\nT. S. Eliot",
+    "The U.S. won three gold medals. (for The members of the U.S. boxing team won three gold medals.)",
+    "Prora in portam navigavit. (prora [prow] for navis [ship])"
+  ],
+  "synesis": [
+    "the agreement of words according to logic, and not by the grammatical form; a kind of anacoluthon.",
+    "For the wages of sin is death. Romans 6",
+    "Then Philip went down to the city of Samaria, and preached Christ unto them. Acts 6"
+  ],
+  "synoeciosis": [
+    "rhetorical figure of coupling opposites"
+  ],
+  "tapinosis": [
+    "use of degrading or diminutive diction regarding a topic"
+  ],
+  "tautology": [
+    "repetition of an idea in a different word, phrase, or sentence.",
+    "The ... mouse ... may now perchance both quake and tremble here.",
+    "With malice toward none, with charity for all. ~Lincoln"
+  ],
+  "tmesis": [
+    "separation of word into parts (cutting apart) by an intervening word",
+    "'that man — how dearly ever parted' (Troilus and Cressida, Act 3, Scene 3).",
+    "saxo cere comminuit brum (for saxo cerebrum comminuit)"
+  ],
+  "tricolon": [
+    "the use of three parallel grammatical units (words, phrases, clauses) sometimes increasing in size",
+    "Tongue, not a word;/ Come, trusty sword;/ Come, blade, my breast imbue.",
+    "non ferar, non patiar, non tolerabo"
+  ],
+  "trope": [
+    "any figure of speech; figurative language"
+  ],
+  "tuism": [
+    "apostrophe; reference to or regard to a second person"
+  ],
+  "zeugma": [
+    "use of a word to modify two or more words in different ways. two words linked to a verb or an adjective which is appropriate to only one of them.",
+    "Nor Mars his sword, nor war's quick fire shall burn\nThe living record of your memory.",
+    "Longa tibi exsilia et vastum maris aequor arandum. Vergil, Aeneid",
+    "Aeneas tulit dolorem et patrem Troia.",
+    "with a certain amount of satisfaction; and a small amount of joy"
+  ]
+}
