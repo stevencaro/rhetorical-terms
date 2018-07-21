@@ -339,13 +339,12 @@
     "'The Antoniad, the Egyptian admiral,/ With all their sixty, fly and turn the rudder' (Antony and Cleopatra)"
   ],
   "hypallage": [
-    "figure in which relations between words are changed",
-    "(\"exchanging\") transferred epithet; grammatical agreement of a word with another word which it does not logically qualify. More common in poetry.",
+    "figure in which relations between words are changed; grammatical agreement of a word with another word with which it does not logically qualify.",
+    "The eye of man hath not heard, the ear of man hath not seen, man's hand is not able to taste, his tongue to conceive, nor his heart to report, what my dream was. ~Shakespeare",
     "Exegi monumentum aere perennius\nregalique situ pyramidum altius ~Horace"
   ],
   "hyperbaton": [
-    "dislocation of the customary or logical word order, with the result that items that normally go together are separated. From Greek huperbaino, 'to step (bainein) over (huper-)'. (Imagine, for instance, that if an adjective is placed apart from the noun it modifies you have to 'step over' the intervening words to get from one to the other.)",
-    "separation of words which belong together, often to emphasize the first of the separated words or to create a certain image.",
+    "separation of words which normally belong together, often to emphasize the first of the separated words or to create a certain image.",
     "'Some rise by sin, and some by virtue fall' (Measure for Measure)",
     "Speluncam Dido dux et Troianus eandem ~Vergil"
   ],
@@ -436,7 +435,7 @@
     "sneering; rhetorical sarcasm or irony"
   ],
   "noema": [
-    "stating something obscurely, forcing listeners to work it out"
+    "an obscure and subtle speech; forcing listeners to work it out"
   ],
   "onomatopoeia": [
     "use of words to imitate natural sounds; accommodation of sound to sense.",
@@ -551,11 +550,9 @@
   ],
   "polyptoton": [
     "repetition of word in same sentence with multiple inflectional endings",
-    "the repetition of the same word, variously inflected. From Greek poluptoton, 'many (polu) cases (from pt\u00f4sis, i.e. fall, grammatical case)'.",
     "'Then know that I, one Snug the joiner, am/ A lion-fell, nor else no lion's dam.'"
   ],
   "polysyndeton": [
-    "rhetorical device of repeating conjunction for emphasis",
     "the repetition of conjunctions in a series of coordinate words, phrases, or clauses.",
     "'Peering in maps for ports and piers and roads' (The Merchant of Venice, Act 1, Scene 1).",
     "omnia Mercurio similis, vocemque coloremque\net crinis flavos et membra decora iuventae Vergil, Aeneid 4.558-9",
@@ -604,9 +601,6 @@
   ],
   "sorites": [
     "string of statements where end of one is subject of next"
-  ],
-  "superjection": [
-    "exaggeration; hyperbole"
   ],
   "syllepsis": [
     "figure where word related to two others differently",
