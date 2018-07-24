@@ -12,17 +12,16 @@ prev_term_g = ()
 curr_term_g = ()
 
 def getterm():
-    ### instantiates rhetoric object
     r = Rhetoric()
-
     term, gloss, examples = r.term()
-
-
     return term, gloss, examples
 
-def prev_term():
-    t, g, e = seen_terms.pop()
-    return t,g,e
+def show_prev_term():
+    if seen_terms.is_empty():
+        pass
+    else:
+        t, g, e = seen_terms.pop()
+        main.contents['body'] = (getbody(t, g, e), None)
 
 def getbody( term, gloss, examples ):
     global curr_term_g
@@ -35,22 +34,21 @@ def getbody( term, gloss, examples ):
 
     return ur.Filler( ur.Padding( ur.LineBox(ur.Pile( content ) ), left=10, right=10))
 
+def show_next_term():
+    prev_term_g = curr_term_g
+    seen_terms.push( prev_term_g )
+    main.contents['body'] = (getbody(*getterm()), None)
+
 def unhandled_input(key):
-    #global prev_term, seen_terms, curr_term
     if key in ['Q', 'q', 'esc']:
         raise ur.ExitMainLoop()
     elif key in ['n', 'space']:
-        prev_term_g = curr_term_g
-        seen_terms.push( prev_term_g )
-        main.contents['body'] = (getbody(*getterm()), None)
+        show_next_term()
     elif key in ['p']:
-        if seen_terms.is_empty():
-            pass
-        else:
-            main.contents['body'] = (getbody(*prev_term()), None)
-    else:
-        pass
+        show_prev_term()
+
     return True
+
 ### Main application
 if __name__ == '__main__':
     body = getbody(*getterm())
@@ -66,8 +64,8 @@ if __name__ == '__main__':
                          unhandled_input = unhandled_input,
                          screen=screen)
 
-### shows usage information on commandline
-parser = argparse.ArgumentParser(description="Shows rhetorical terms and their definitions. Press 'n' to show the next term.")
+### shows usage information on command line
+parser = argparse.ArgumentParser(description="Shows rhetorical terms and their definitions. Press 'n' to show the next term. Press 'p' to show previous term.")
 args   = parser.parse_args()
 
 ### Runs main application
